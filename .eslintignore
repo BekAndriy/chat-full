@@ -1,0 +1,7 @@
+build/*.js
+src/*.js
+src/*.jsx
+src/components/*.jsx
+src/components/api/*.jsx
+src/components/redux/*.jsx
+src/components/redux/*.js
